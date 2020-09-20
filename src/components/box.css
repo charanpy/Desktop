@@ -1,0 +1,12 @@
+
+.box{
+	position: absolute;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	cursor: pointer;
+	box-shadow: 0 0 0 2px crimson inset;
+}
+#inputImage{
+	position: relative;
+}
